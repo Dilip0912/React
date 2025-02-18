@@ -9,7 +9,7 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>Login karna hai to detail de</h1>
+      <h1>Login karna hai to detail do</h1>
       <Login />
       <Profile />
     </UserContextProvider>
